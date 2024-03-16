@@ -1,1 +1,1 @@
-console.log('ini file tes')
+console.log('ini file tes baru')
